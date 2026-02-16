@@ -162,7 +162,6 @@
 - [Contributors](#contributors)
 - [Guidelines to contribute](#guidelines-to-contribute)
 - [Unsure how to contribute?](#unsure-how-to-contribute)
-- [Unsure how to contribute?](#unsure-how-to-contribute)
 - [License](#license)
 
 ## Applications
@@ -389,7 +388,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/mjakeman/extension-manager) [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
 - [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
-- [![Open-Source Software][oss icon]](https://github.com/GradienceTeam/Gradience) [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
 - [![Open-Source Software][oss icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
 - [![Open-Source Software][oss icon]](https://github.com/kando-menu/kando) [Kando](https://kando.menu/) - A cross-platform pie menu for your desktop, offering an unconventional, fast, and highly efficient way of interacting with your computer using mouse, stylus, touch, or controller input.
 - [![Open-Source Software][oss icon]](https://github.com/LemonBoy/bar) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
@@ -403,7 +401,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Android
 
-- [![Open-Source Software][oss icon]](https://github.com/anbox/anbox) [Anbox](https://anbox.io) - Run Android applications on any GNU/Linux operating system.
 - [![Open-Source Software][oss icon]](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/source.md) [Android Studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
 - [![Open-Source Software][oss icon]](https://github.com/waydroid/waydroid) [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 
@@ -538,6 +535,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Supporting Tools
 
+- [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno) [Bruno](https://www.usebruno.com/) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia).
 - [![Open-Source Software][oss icon]](https://github.com/kspalaiologos/bzip3) [bzip3](https://github.com/kspalaiologos/bzip3) - A versatile statistical compressor with better compression ratio than standard Linux tools (gzip, bzip2, etc...).
 - [![Open-Source Software][oss icon]](https://github.com/GeopJr/Collision) [Collision](https://collision.geopjr.dev/) - Collision comes with a simple & clean UI, allowing anyone, from any age and experience group, to generate, compare and verify MD5, SHA-256, SHA-512 and SHA-1 hashes.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cscope/) [Cscope](https://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor. It allows searching code for symbols, definitions, functions (called/calling), regex, files.
@@ -559,7 +557,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/tree/main) [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
-- [![Open-Source Software][oss icon]](https://gitlab.com/rmnvgr/metadata-cleaner/) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible.
 - [Mockitt](https://mockitt.com/home.html) - Mockitt is an easy-to-use prototyping tool.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - Hex Editor for viewing and editing the raw data of files.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
@@ -655,6 +652,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ### Email
 
 - [![Open-Source Software][oss icon]](https://git.sr.ht/~sircmpwn/aerc) [aerc](https://aerc-mail.org) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
+- [![Open-Source Software][oss icon]](https://github.com/Betterbird/thunderbird-patches) [Betterbird](https://www.betterbird.eu/) - Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.
 - [![Open-Source Software][oss icon]](https://git.claws-mail.org/) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
 - [![Open-Source Software][oss icon]](https://github.com/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/evolution/) [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality.
@@ -910,6 +908,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.com/mattia.basaglia/Knotter) [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/kolourpaint) [KolourPaint](https://apps.kde.org/kolourpaint/) - KolourPaint is a simple painting program to quickly create raster images.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/krita) [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.
+- [![Open-Source Software][oss icon]](https://github.com/LibreSprite/LibreSprite) [LibreSprite](https://libresprite.github.io/#!/) - LibreSprite is a free and open source program for creating and animating your sprites.
 - ![Nonfree][freeware icon][Lunacy](https://icons8.com/lunacy/) - Free design software that keeps your flow with AI tools and built-in graphics
 - [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint) [Mypaint](https://github.com/mypaint/mypaint)) - Mypaint is a paint program for use with graphics tablets.
 - [![Open-Source Software][oss icon]](https://gitlab.com/jonata/opendvdproducer) [Open DVD Producer](https://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.
@@ -1040,6 +1039,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) [Waterfox](https://www.waterfox.net/) - Fork of Firefox. Waterfox gives you a sane way to browse the web. Built with you, the user, in mind.
 - [Wavebox](https://wavebox.io) - A feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 - [Yandex](https://browser.yandex.com) - Fast and convenient browser.
+- [![Open-Source Software][oss icon]](https://github.com/zen-browser/desktop) [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level.
 
 #### Supportive Tool
 
@@ -1724,6 +1724,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) [Budgie](https://buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/Cinnamon) [Cinnamon](https://projects.linuxmint.com/cinnamon/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+- [![Open-Source Software][oss icon]](https://github.com/pop-os/cosmic-epoch) [COSMIC](https://system76.com/cosmic) - COSMIC is a desktop environment offering performance, efficiency, and personalization to empower a wide variety of use cases.
 - [![Open-Source Software][oss icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
 - [![Open-Source Software][oss icon]](https://git.enlightenment.org/enlightenment/efl) [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME) [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
