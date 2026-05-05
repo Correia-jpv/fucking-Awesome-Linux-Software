@@ -1225,6 +1225,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) 🌎 [Privoxy](www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) 🌎 [ProxyChains](proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5) 🌎 [Shadowsocks](shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+- [![Open-Source Software][oss icon]](https://github.com/onyks-os/TransparentTorProxy) [TransparentTorProxy](https://github.com/onyks-os/TransparentTorProxy) - A Linux CLI utility that transparently routes all system traffic through the Tor network using nftables.
 
 ### Security
 

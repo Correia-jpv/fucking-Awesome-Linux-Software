@@ -591,6 +591,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy 是一款无缓存 web 代理，有高级过滤功能，用以加强隐私，修改 web 页面数据以及 HTTP 头部，访问控制，还有去广告和烦人的网络垃圾的功能。
 - [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - 强制指定的应用发起的任何 TCP 连接通过像 TOR 或其它 SOCKS4，SOCKS5 或 HTTP(S) 代理进行。
 - [Shadowsocks](https://shadowsocks.org/) - 一个 socks5 代理工具，保护你的互联网流量。 [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+- [![Open-Source Software][oss icon]](https://github.com/onyks-os/TransparentTorProxy) [TransparentTorProxy](https://github.com/onyks-os/TransparentTorProxy) - 一个通过 nftables 将所有系统流量透明路由到 Tor 网络中的 Linux 命令行工具。
 
 ### 文件共享
 
