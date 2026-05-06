@@ -796,6 +796,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy es un proxy web no caché que tiene filtros para mejorar la privacidad.
 - [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) [ProxyChains](https://github.com/haad/proxychains) - una herramienta que puede hacer una conexión tcp pasar por TOR, o un proxy.
 - [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5/releases) [Shadowsocks](https://shadowsocks.org/) - un proxy SOCKS5 diseñado para ofrecer privacidad en línea.
+- [![Open-Source Software][oss icon]](https://github.com/onyks-os/TransparentTorProxy) [TransparentTorProxy](https://github.com/onyks-os/TransparentTorProxy) - Una utilidad CLI de Linux que enruta de forma transparente todo el tráfico del sistema a través de la red Tor usando nftables.
 
 ### Seguridad
 
