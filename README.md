@@ -1075,6 +1075,10 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/kmymoney) 🌎 [KMyMoney](kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/skrooge) 🌎 [Skrooge](skrooge.org/) - A personal finances manager, powered by KDE.
 
+#### Address Book
+
+- [![Open-Source Software][oss icon]](https://github.com/nicolettas-muggelbude/Kater) 🌎 [Kater](https://kater-adressen.app) - A Linux address book with full vCard 4.0 support. Manages contacts locally in SQLite with no cloud or accounts, supports vCard/Thunderbird import-export, Fritzbox/Speedport phonebook export, QR-code sharing, and full-text search.
+
 #### Office Suites
 
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/calligra) 🌎 [Caligra Office](www.calligra.org/) - Offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
