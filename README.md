@@ -1152,6 +1152,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://www.speedcrunch.org/) 🌎 [SpeedCrunch](www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) <b><code>&nbsp;&nbsp;&nbsp;551⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;50🍴</code></b> [Undistract me](https://github.com/jml/undistract-me)) - Notifies you when long-running terminal commands complete.
 - 🌎 [Xmind](xmind.app/) - A mind mapping tool.
+- [![Open-Source Software][oss icon]](https://github.com/MSKazemi/yazses) 🌎 [YazSes](mskazemi.com/yazses/) - Hold a key, speak, release, and the text is typed into whatever app has focus. Runs entirely on your machine with faster-whisper - no cloud, no API key.
 
 #### Note Taking
 
