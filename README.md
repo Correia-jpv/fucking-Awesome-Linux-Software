@@ -1096,6 +1096,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Markdown
 
 - [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter) 🌎 [Ghost Writer](ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
+- [![Open-Source Software][oss icon]](https://github.com/Radi0Glitch/Marked-text-down) [Marked-text-down](https://github.com/Radi0Glitch/Marked-text-down) - A WYSIWYG Markdown editor for Linux and Windows with formulas, diagrams and charts.
 - [![Open-Source Software][oss icon]](https://github.com/fabiocolacio/Marker) <b><code>&nbsp;&nbsp;&nbsp;866⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;78🍴</code></b> [Marker](https://github.com/fabiocolacio/Marker)) - Marker is a markdown editor for linux made with GTK+-3.0.
 - [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) <b><code>&nbsp;63488⭐</code></b> <b><code>&nbsp;&nbsp;4707🍴</code></b> [MarkText](https://github.com/marktext/marktext)) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
 - [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) 🌎 [Remarkable](remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).
